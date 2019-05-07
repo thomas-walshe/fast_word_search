@@ -1,0 +1,8 @@
+10 msalliance
+04 msec
+03 msg
+05 msink
+03 msl
+07 msource
+03 mss
+05 mster

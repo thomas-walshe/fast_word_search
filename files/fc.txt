@@ -1,0 +1,7 @@
+05 fchar
+03 fcy
+05 fcomp
+05 fconv
+08 fconvert
+03 fcp
+03 fcs

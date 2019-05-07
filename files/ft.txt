@@ -1,0 +1,4 @@
+03 fth
+04 fthm
+06 ftncmd
+06 ftnerr

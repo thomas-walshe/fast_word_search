@@ -1,0 +1,4 @@
+03 lbf
+06 lbinit
+03 lbs
+03 lbw

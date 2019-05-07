@@ -1,0 +1,11 @@
+03 ppa
+03 ppb
+03 ppd
+03 pph
+03 ppi
+03 ppl
+03 ppm
+03 ppr
+03 pps
+03 ppt
+04 pptn

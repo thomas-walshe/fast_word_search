@@ -1,0 +1,6 @@
+04 qtam
+03 qtd
+03 qty
+03 qto
+03 qtr
+03 qts

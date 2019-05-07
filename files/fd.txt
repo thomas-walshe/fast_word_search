@@ -1,0 +1,5 @@
+06 fdname
+07 fdnames
+06 fdtype
+04 fdub
+05 fdubs

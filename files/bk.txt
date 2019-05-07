@@ -1,0 +1,9 @@
+06 bkbndr
+04 bkcy
+03 bkg
+04 bkgd
+04 bklr
+04 bkpr
+04 bkpt
+03 bks
+03 bkt

@@ -1,0 +1,12 @@
+07 csardas
+03 csc
+04 csch
+05 csect
+06 csects
+03 csi
+03 csk
+04 csmp
+05 csnet
+03 csp
+03 cst
+03 csw

@@ -1,0 +1,7 @@
+03 dca
+03 dcb
+07 dcbname
+06 dclass
+07 dcollet
+10 dcolletage
+04 dcor

@@ -1,0 +1,5 @@
+05 zlote
+05 zloty
+07 zlotych
+07 zloties
+06 zlotys

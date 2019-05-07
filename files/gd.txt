@@ -1,0 +1,2 @@
+06 gdinfo
+03 gds

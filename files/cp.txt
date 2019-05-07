@@ -1,0 +1,10 @@
+03 cpd
+03 cpi
+03 cpl
+03 cpm
+03 cpo
+03 cps
+03 cpt
+03 cpu
+04 cpus
+07 cputime
